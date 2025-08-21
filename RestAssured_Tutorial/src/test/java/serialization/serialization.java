@@ -11,6 +11,8 @@ import io.restassured.RestAssured;
 
 public class serialization {
 
+	//serialization by using Jackson library
+	
 	@Test
 	public void serializationexample() {
 		
