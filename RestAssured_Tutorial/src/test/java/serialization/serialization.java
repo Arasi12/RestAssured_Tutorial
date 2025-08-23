@@ -12,7 +12,7 @@ import io.restassured.RestAssured;
 public class serialization {
 
 	//serialization by using Jackson library
-	
+	// Jackson Databind - Dependency
 	@Test
 	public void serializationexample() {
 		
