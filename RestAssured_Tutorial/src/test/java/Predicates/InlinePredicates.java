@@ -43,8 +43,8 @@ public class InlinePredicates {
 		example.InlinePredicatesAnd();
 		example.InlinePredicatesOr();
 		example.InlinePredicatesNegation();
-		
-		
+
+
 	}
 
 }
